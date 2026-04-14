@@ -4,3 +4,28 @@ For Interview Preparations watch the following you tube videos
 
 2) Code Decode 
 
+For senior/architect level:                                                                                                                                      
+  - "Spring Boot interview senior developer 2024"                                                                                                                  
+  - "Java microservices interview questions architect"                                                                                                             
+  - "Spring Boot system design interview"                                                                                                                        
+  - "Java concurrency interview senior"                                                                                                                            
+                                                                                                                                                                 
+  Good channels to search on YouTube:                                                                                                                              
+  - Java Brains — deep Spring/Spring Boot concepts
+  - TechPrimers — microservices, system design                                                                                                                     
+  - Defog Tech — Java internals, concurrency                                                                                                                     
+  - Spring Developer (official Spring channel)                                                                                                                     
+  - in28minutes — Spring Boot end-to-end                                                                                                                           
+  - Amigoscode — Spring Boot practical                                                                                                                             
+                                                                                                                                                                   
+  Key topics to focus on for senior/lead level:                                                                                                                    
+  - Spring Boot internals (auto-configuration, bean lifecycle)                                                                                                   
+  - Microservices patterns (Circuit Breaker, Saga, CQRS)                                                                                                           
+  - Spring Security (JWT, OAuth2)                                                                                                                                
+  - JVM tuning, GC strategies                                                                                                                                      
+  - Reactive programming (WebFlux)                                                                                                                                 
+  - Database transactions, distributed transactions                                                                                                                
+  - Kafka/messaging integration                                                                                                                                    
+  - Design patterns in Spring context                                                                                                                              
+  - Observability (Micrometer, distributed tracing)        
+
